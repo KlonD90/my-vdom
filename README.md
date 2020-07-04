@@ -1,4 +1,4 @@
-# Virtual DOM from crats
+# Virtual DOM from scratch
 
 It's Virtual DOM for fun.
 
